@@ -14,3 +14,16 @@ For example, this command trains an ADMIT model on the Simulation dataset with G
 python main.py --data sim  --learning_rate 0.0002 --batch_size 500 --log
 ```
 
+## Citation
+
+If you find our work useful for your research, please consider citing the following papers :)
+
+```
+@inproceedings{wang2022generalization,
+  title={Generalization Bounds for Estimating Causal Effects of Continuous Treatments},
+  author={Xin Wang and Shengfei Lyu and Xingyu Wu and Tianhao Wu and Huanhuan Chen},
+  booktitle={NeurIPS},
+  year={2022}
+}
+```
+
